@@ -1,0 +1,4 @@
+# Offline ingestion and integration tests only; not native reader dependencies.
+zserio==2.16.1
+ndslive-math>=1.1.0
+shapely==2.1.2

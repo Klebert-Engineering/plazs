@@ -1,0 +1,26 @@
+include_guard(GLOBAL)
+
+# Fetch the prepared global profile, never the multi-gigabyte WOF source export.
+# Calling this is optional; the reader also accepts locally prepared artifacts.
+function(plazs_fetch_dataset output_path)
+  set(sha256 d5ede0050d521a04f47f6f7f70b52ca171b42082240c35ec9d599b9e9ccd6791)
+  set(url "https://github.com/Klebert-Engineering/plazs/releases/download/wof-20251014-format1/places.sqlite")
+  set(directory "${CMAKE_BINARY_DIR}/_plazs-data")
+  set(destination "${directory}/${sha256}.sqlite")
+  file(MAKE_DIRECTORY "${directory}")
+  file(LOCK "${directory}/download.lock" GUARD FUNCTION TIMEOUT 300)
+  if(EXISTS "${destination}")
+    file(SHA256 "${destination}" existing_hash)
+  endif()
+  if(NOT existing_hash STREQUAL sha256)
+    message(STATUS "plazs: downloading pinned global gazetteer (42.3 MB)")
+    file(DOWNLOAD "${url}" "${destination}.part"
+      EXPECTED_HASH "SHA256=${sha256}" TLS_VERIFY ON TIMEOUT 300 STATUS result)
+    list(GET result 0 code)
+    if(NOT code EQUAL 0)
+      message(FATAL_ERROR "Cannot download plazs gazetteer: ${result}")
+    endif()
+    file(RENAME "${destination}.part" "${destination}")
+  endif()
+  set(${output_path} "${destination}" PARENT_SCOPE)
+endfunction()
