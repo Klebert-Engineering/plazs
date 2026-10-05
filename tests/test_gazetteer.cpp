@@ -145,7 +145,11 @@ TEST_CASE("Location boundaries decode NDS blocks and preserve holes and islands"
     CHECK(geometry["coordinates"][0][1][0] == ndsmath::HighPrecWgs84::fromNdsCoordinates(100, 0).x);
     boundary.setMultiPolygon(true);
     auto hole = ring;
-    hole.getBlocks().front().getPoints() = {{50, 20}, {60, 20}, {60, 30}};
+    auto& holePoints = hole.getBlocks().front().getPoints();
+    holePoints.clear();
+    holePoints.emplace_back(50, 20);
+    holePoints.emplace_back(60, 20);
+    holePoints.emplace_back(60, 30);
     boundary.getPolygons().front().getRings().push_back(hole);
     auto island = polygon;
     for (auto& point : island.getRings().front().getBlocks().front().getPoints())
