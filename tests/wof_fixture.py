@@ -97,5 +97,3 @@ class WofFixture:
     def prepare(self, **options):
         """Use precisely the production importer, not a duplicate prepared-schema fixture."""
         return IMPORTER.WofImporter(self.source, self.output, self.manifest, self.license, **options).run()
-
-

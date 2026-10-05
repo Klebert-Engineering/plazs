@@ -12,6 +12,11 @@ Who's On First (WOF) data. No map server, network geocoder or viewer is included
 
 ## Build
 
+SQLite files are stored with **Git LFS**, including the prepared global artifact
+in `data/places.sqlite` and the synthetic test fixture. Run `git lfs install`
+before cloning, or `git lfs pull` in an existing checkout. Builds/tests require
+the actual data files, not the small LFS pointer text.
+
 Requirements: CMake 3.20+, a C++20 compiler, Java for schema generation, and Python
 3.10+ for ingestion/tests. The deployed reader does not require Java, Python or GEOS.
 
@@ -60,8 +65,9 @@ localities with a known population of at least 5,000, from an October 2025 WOF
 snapshot. It is intentionally not a complete inventory of every locality.
 
 See [data preparation](docs/data.md) for the pinned input, profile, format,
-precision tradeoffs and validation. Prepared artifacts belong in release assets,
-not Git. `tests/data/places.sqlite` is a tiny synthetic fixture, not real data.
+precision tradeoffs and validation. Prepared artifacts are versioned with Git LFS
+and also available as checksum-verified release assets. `tests/data/places.sqlite`
+is a tiny synthetic fixture, not real data.
 
 The default boundary grid rounds away seven NDS low bits: approximately 1.2 metres
 at the equator. Additional simplification is opt-in for the importer; the prepared

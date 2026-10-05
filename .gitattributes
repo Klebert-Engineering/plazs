@@ -1,0 +1,4 @@
+*.sqlite filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
+# Preserve the upstream license verbatim, including its existing whitespace.
+data/DATA-LICENSE.md -whitespace

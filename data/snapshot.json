@@ -1,0 +1,1315 @@
+{
+  "commit": "56b0ba1827b627a955da1211443795b9765611f55008c4a028fe2c604027bc99",
+  "last_modified": "2025-10-14T10:19:29.421Z",
+  "last_updated": "2025-10-14T04:33:58.000Z",
+  "members": [
+    {
+      "commit": "040d9e760d7c2fc4ee1f80d2b4cf18258759a1ed",
+      "last_updated": "2024-03-05T18:05:44.000Z",
+      "repo": "whosonfirst-data-admin-so"
+    },
+    {
+      "commit": "0421d641319feff521b57cf3128b5e0ee44f7b64",
+      "last_updated": "2024-07-30T03:20:45.000Z",
+      "repo": "whosonfirst-data-admin-id"
+    },
+    {
+      "commit": "04b53b74d6444c5761d1527278ceaeac7ccfed35",
+      "last_updated": "2024-12-24T00:22:39.000Z",
+      "repo": "whosonfirst-data-admin-pa"
+    },
+    {
+      "commit": "05aa747dd390cc21fae60cb9ef3805fac17abccb",
+      "last_updated": "2024-03-06T18:12:57.000Z",
+      "repo": "whosonfirst-data-admin-ug"
+    },
+    {
+      "commit": "0a648d2b0db395b902a72ae342ab4d170599b5e3",
+      "last_updated": "2024-03-05T18:07:34.000Z",
+      "repo": "whosonfirst-data-admin-bg"
+    },
+    {
+      "commit": "0beea9eaea5c93f9ae808456c4ea1fce0858336d",
+      "last_updated": "2023-09-29T23:32:06.000Z",
+      "repo": "whosonfirst-data-admin-pm"
+    },
+    {
+      "commit": "0e642e3f1351726df8c0153de5279740d4f6ee05",
+      "last_updated": "2023-09-29T22:33:42.000Z",
+      "repo": "whosonfirst-data-admin-ag"
+    },
+    {
+      "commit": "0f0383dc4dd66f39686c147ceacd5e61c44b55ef",
+      "last_updated": "2024-03-05T18:03:11.000Z",
+      "repo": "whosonfirst-data-admin-gu"
+    },
+    {
+      "commit": "0f2786117f3acb814b6ca6b518517628aad29877",
+      "last_updated": "2024-03-05T18:06:51.000Z",
+      "repo": "whosonfirst-data-admin-ge"
+    },
+    {
+      "commit": "0feaac28b597f2168bb1c04cfd49ab98dc86659e",
+      "last_updated": "2024-03-05T18:02:52.000Z",
+      "repo": "whosonfirst-data-admin-mt"
+    },
+    {
+      "commit": "1036842800e61d6bc5cb98218fc1f856db483462",
+      "last_updated": "2024-03-06T18:14:10.000Z",
+      "repo": "whosonfirst-data-admin-si"
+    },
+    {
+      "commit": "12b692afaa3124698e7701543a5a1f2d77005b77",
+      "last_updated": "2023-09-29T23:50:15.000Z",
+      "repo": "whosonfirst-data-admin-um"
+    },
+    {
+      "commit": "12e37502fb4f964f56820919ea2f49865a0645f4",
+      "last_updated": "2024-03-05T18:03:00.000Z",
+      "repo": "whosonfirst-data-admin-sn"
+    },
+    {
+      "commit": "132b675fea1e062f92bbdb0ebf5704f1acf895c0",
+      "last_updated": "2024-11-05T01:19:13.000Z",
+      "repo": "whosonfirst-data-admin-kr"
+    },
+    {
+      "commit": "1377019263035515e39fe38f37aaea042936e053",
+      "last_updated": "2023-09-29T22:54:35.000Z",
+      "repo": "whosonfirst-data-admin-gw"
+    },
+    {
+      "commit": "13c38d35334b89a461b353664259c4ae9c30aba3",
+      "last_updated": "2023-09-29T22:36:23.000Z",
+      "repo": "whosonfirst-data-admin-aw"
+    },
+    {
+      "commit": "148ad222206ca465e346eab6364bc369b6f0f938",
+      "last_updated": "2024-07-22T17:38:10.000Z",
+      "repo": "whosonfirst-data-admin-es"
+    },
+    {
+      "commit": "153baf0471c4c62c07bd8a61a571a4a2f40fe983",
+      "last_updated": "2024-03-06T18:13:45.000Z",
+      "repo": "whosonfirst-data-admin-sh"
+    },
+    {
+      "commit": "15b06fa28874deca2e9687805ff2b57d4126aeb2",
+      "last_updated": "2024-03-06T18:12:05.000Z",
+      "repo": "whosonfirst-data-admin-kn"
+    },
+    {
+      "commit": "179bbe485ea45b74329ca76ad39a1b7333f13c3d",
+      "last_updated": "2025-03-12T14:17:17.000Z",
+      "repo": "whosonfirst-data-admin-xx"
+    },
+    {
+      "commit": "1831d1391a14bc149e1159971217348c1b99e2b0",
+      "last_updated": "2024-03-05T18:03:08.000Z",
+      "repo": "whosonfirst-data-admin-is"
+    },
+    {
+      "commit": "1a75ffe70d0b5b9e31a59c19de0ea3ecaaa44015",
+      "last_updated": "2023-08-29T19:13:02.000Z",
+      "repo": "whosonfirst-data-admin-nf"
+    },
+    {
+      "commit": "1be0cdde276f9fb6d5042f32a9e118229e5f192e",
+      "last_updated": "2023-09-29T22:54:46.000Z",
+      "repo": "whosonfirst-data-admin-gy"
+    },
+    {
+      "commit": "1bfae0f011094394edfd630cad033f785191ef81",
+      "last_updated": "2024-03-06T18:13:21.000Z",
+      "repo": "whosonfirst-data-admin-eg"
+    },
+    {
+      "commit": "1c482747521b6df5100f223111fdc446bda3b4bd",
+      "last_updated": "2024-03-05T18:02:19.000Z",
+      "repo": "whosonfirst-data-admin-np"
+    },
+    {
+      "commit": "1e973538a8676bc016829f7a2a99577da0b70be5",
+      "last_updated": "2024-03-05T18:06:46.000Z",
+      "repo": "whosonfirst-data-admin-by"
+    },
+    {
+      "commit": "20e1e1395b42969365bd0bc82dbc2698384cf875",
+      "last_updated": "2024-02-12T20:15:42.000Z",
+      "repo": "whosonfirst-data-admin-ae"
+    },
+    {
+      "commit": "2141113944cfacf2992be1f36f08d837ecc3ce22",
+      "last_updated": "2023-09-29T22:34:49.000Z",
+      "repo": "whosonfirst-data-admin-aq"
+    },
+    {
+      "commit": "219fda76aa98197db6b8cfb4916bb3e7ea6af07a",
+      "last_updated": "2024-03-06T18:16:15.000Z",
+      "repo": "whosonfirst-data-admin-mn"
+    },
+    {
+      "commit": "23c48d54eed2fedd9b746f1486a9973db0f66374",
+      "last_updated": "2024-07-30T02:28:22.000Z",
+      "repo": "whosonfirst-data-admin-mz"
+    },
+    {
+      "commit": "2528885a93b80efcfd8dfbb402e3ee636bb21786",
+      "last_updated": "2024-03-05T18:01:50.000Z",
+      "repo": "whosonfirst-data-admin-ly"
+    },
+    {
+      "commit": "25382e1da0900e8ed2180d99e87ce0789c13ab58",
+      "last_updated": "2024-03-06T18:16:26.000Z",
+      "repo": "whosonfirst-data-admin-mm"
+    },
+    {
+      "commit": "25ebdaf613b0704784c27edd44c24c1211f22de0",
+      "last_updated": "2020-07-02T23:41:45.000Z",
+      "repo": "whosonfirst-data-admin-uk"
+    },
+    {
+      "commit": "25fc6f6f7eff1181a7052af8da6ce8682ea83d23",
+      "last_updated": "2023-09-29T22:49:19.000Z",
+      "repo": "whosonfirst-data-admin-fo"
+    },
+    {
+      "commit": "26ad94629cdf2e0bf4ec1c18140d71641d462463",
+      "last_updated": "2023-08-26T02:24:10.000Z",
+      "repo": "whosonfirst-data-admin-gs"
+    },
+    {
+      "commit": "2966afc73b7980c7cf35da54d1bc3610345f0ac3",
+      "last_updated": "2024-03-05T18:02:49.000Z",
+      "repo": "whosonfirst-data-admin-bo"
+    },
+    {
+      "commit": "29ee49007eb83d30831a70746b66b9549645d1ac",
+      "last_updated": "2024-03-05T18:06:43.000Z",
+      "repo": "whosonfirst-data-admin-pf"
+    },
+    {
+      "commit": "2b476dfefc47ba8e6c2e1f62e06914e03e772ead",
+      "last_updated": "2019-07-02T17:41:33.000Z",
+      "repo": "whosonfirst-data-admin-hm"
+    },
+    {
+      "commit": "2d1cb03255c6dbd39271e13381a0651b78c26e43",
+      "last_updated": "2024-03-05T18:07:04.000Z",
+      "repo": "whosonfirst-data-admin-gf"
+    },
+    {
+      "commit": "2d4b65dae2245e76b43e9f06f272fa84a2e0687e",
+      "last_updated": "2024-03-08T16:41:48.000Z",
+      "repo": "whosonfirst-data-admin-fr"
+    },
+    {
+      "commit": "2dabf8d9dd3958932242c13b6d39af0ca5ca4205",
+      "last_updated": "2024-03-05T18:03:15.000Z",
+      "repo": "whosonfirst-data-admin-jo"
+    },
+    {
+      "commit": "2db0f03b9f9d24bd371f318759d3e56c816c333e",
+      "last_updated": "2024-03-05T18:07:16.000Z",
+      "repo": "whosonfirst-data-admin-sy"
+    },
+    {
+      "commit": "2efa70fccf2aea8d93f69cab55d9f5278644c812",
+      "last_updated": "2023-09-29T23:17:40.000Z",
+      "repo": "whosonfirst-data-admin-ml"
+    },
+    {
+      "commit": "2f44379f3dbcec41293ae033d15f55535d5da054",
+      "last_updated": "2024-03-05T18:02:14.000Z",
+      "repo": "whosonfirst-data-admin-tj"
+    },
+    {
+      "commit": "2f684591b059958890514c77400d3fa372abc140",
+      "last_updated": "2025-10-14T03:46:20.000Z",
+      "repo": "whosonfirst-data-admin-gb"
+    },
+    {
+      "commit": "30db0494d3666a3cc4c0ad3539b5d1ddda0d8110",
+      "last_updated": "2024-03-06T18:13:41.000Z",
+      "repo": "whosonfirst-data-admin-ie"
+    },
+    {
+      "commit": "310b0cd2915f458b32248073676f2981a83eba6c",
+      "last_updated": "2024-03-05T18:06:55.000Z",
+      "repo": "whosonfirst-data-admin-bz"
+    },
+    {
+      "commit": "31fb7132834978d193a4abf3b5180e4b21e5bfa5",
+      "last_updated": "2023-09-29T22:44:55.000Z",
+      "repo": "whosonfirst-data-admin-cw"
+    },
+    {
+      "commit": "32080d57b54a64f106a5d85b25adc86835a52729",
+      "last_updated": "2024-08-12T16:58:27.000Z",
+      "repo": "whosonfirst-data-admin-sk"
+    },
+    {
+      "commit": "3374f3dc7f5fa134d1494a066006167db5c67c14",
+      "last_updated": "2025-03-17T03:48:03.000Z",
+      "repo": "whosonfirst-data-admin-ir"
+    },
+    {
+      "commit": "35a3f2e485be8bb5369c121aa73b657294219a28",
+      "last_updated": "2023-09-29T22:40:28.000Z",
+      "repo": "whosonfirst-data-admin-bt"
+    },
+    {
+      "commit": "35cd839f584609877c02d5461890fd58a396fa04",
+      "last_updated": "2024-03-06T18:12:49.000Z",
+      "repo": "whosonfirst-data-admin-lu"
+    },
+    {
+      "commit": "36a1a15e77148690efac62b0bfc365b28677a342",
+      "last_updated": "2024-03-06T18:16:29.000Z",
+      "repo": "whosonfirst-data-admin-sl"
+    },
+    {
+      "commit": "36f4852c8e50b5637c140715b5d896c01baf2dd1",
+      "last_updated": "2024-03-06T18:16:22.000Z",
+      "repo": "whosonfirst-data-admin-vn"
+    },
+    {
+      "commit": "378ddbd68b0d150e6a0c1d7b41008e7457157b4b",
+      "last_updated": "2024-03-05T18:06:13.000Z",
+      "repo": "whosonfirst-data-admin-tr"
+    },
+    {
+      "commit": "3a30fa2c467241b0bf5ebc760bad2708155bda84",
+      "last_updated": "2023-09-29T22:53:13.000Z",
+      "repo": "whosonfirst-data-admin-gl"
+    },
+    {
+      "commit": "3b2fe71da7fa380531ed78e7e9c7843652e06e32",
+      "last_updated": "2025-10-14T04:00:28.000Z",
+      "repo": "whosonfirst-data-admin-ua"
+    },
+    {
+      "commit": "3d983ebc0523caa7a6d7dea6848c01c1689d5de7",
+      "last_updated": "2024-03-08T16:42:44.000Z",
+      "repo": "whosonfirst-data-admin-no"
+    },
+    {
+      "commit": "3dafe2ab88be3a938a6b3e1ccfd17fe270e75cf6",
+      "last_updated": "2024-03-05T18:03:38.000Z",
+      "repo": "whosonfirst-data-admin-la"
+    },
+    {
+      "commit": "3e369bb02d780836396590e64248b485e4c354f5",
+      "last_updated": "2024-11-05T01:19:11.000Z",
+      "repo": "whosonfirst-data-admin-kp"
+    },
+    {
+      "commit": "3faffa8a9bd99ce00859cad9061c37fb5edf8ad5",
+      "last_updated": "2023-09-29T22:46:24.000Z",
+      "repo": "whosonfirst-data-admin-dm"
+    },
+    {
+      "commit": "40a6703c34fb096bbdab4888149a9312bfa7f326",
+      "last_updated": "2024-03-06T18:12:00.000Z",
+      "repo": "whosonfirst-data-admin-bj"
+    },
+    {
+      "commit": "410dd5601857cd15672fd3f4e8b2bd0e60a5270b",
+      "last_updated": "2023-08-29T18:59:57.000Z",
+      "repo": "whosonfirst-data-admin-pn"
+    },
+    {
+      "commit": "41bf4f685858c8964aa03889a7a2c24dd3b1a8f8",
+      "last_updated": "2024-03-06T18:14:05.000Z",
+      "repo": "whosonfirst-data-admin-gm"
+    },
+    {
+      "commit": "42074aef3bebde221792609b805940b10627046d",
+      "last_updated": "2024-03-06T18:12:39.000Z",
+      "repo": "whosonfirst-data-admin-dz"
+    },
+    {
+      "commit": "42191f962f15d28eb7df228b7d47a3c493365a30",
+      "last_updated": "2024-03-05T18:02:30.000Z",
+      "repo": "whosonfirst-data-admin-fm"
+    },
+    {
+      "commit": "434974f0b72b516ba2f068451d7829feb82f62c4",
+      "last_updated": "2023-09-29T23:18:24.000Z",
+      "repo": "whosonfirst-data-admin-mp"
+    },
+    {
+      "commit": "4660fcd4228e615b8c927b18a5ea051ebeeb33f8",
+      "last_updated": "2024-07-30T02:32:07.000Z",
+      "repo": "whosonfirst-data-admin-tz"
+    },
+    {
+      "commit": "4794444e853d56af8f3e15923bbfa853a3b3d044",
+      "last_updated": "2023-08-29T19:10:10.000Z",
+      "repo": "whosonfirst-data-admin-nu"
+    },
+    {
+      "commit": "48f233736b8cbe21405957b8f4c7d09efeec49a6",
+      "last_updated": "2024-08-20T17:07:08.000Z",
+      "repo": "whosonfirst-data-admin-za"
+    },
+    {
+      "commit": "4b1c8f0673ee14cc75c2203246304f180384fee5",
+      "last_updated": "2023-09-29T22:44:45.000Z",
+      "repo": "whosonfirst-data-admin-cv"
+    },
+    {
+      "commit": "4b64e4ebf99e9fbadc4e828bea25d41a9085b7f1",
+      "last_updated": "2024-03-05T18:07:24.000Z",
+      "repo": "whosonfirst-data-admin-hu"
+    },
+    {
+      "commit": "4c7a00f6387bcab9094ac10c9448177515f1098f",
+      "last_updated": "2024-03-05T18:01:55.000Z",
+      "repo": "whosonfirst-data-admin-iq"
+    },
+    {
+      "commit": "4e37f69d7ff5224c654004ec37cf05b64d5efc91",
+      "last_updated": "2023-09-29T23:19:14.000Z",
+      "repo": "whosonfirst-data-admin-mv"
+    },
+    {
+      "commit": "4e4f7b7082d3627bd9ff2546e0de4e82b52745bd",
+      "last_updated": "2024-03-05T18:01:20.000Z",
+      "repo": "whosonfirst-data-admin-cz"
+    },
+    {
+      "commit": "4f1bf53c7b866ec9a02044ef3fde692c18268185",
+      "last_updated": "2024-03-06T18:13:34.000Z",
+      "repo": "whosonfirst-data-admin-eh"
+    },
+    {
+      "commit": "503cd433a7ffc19b226f6b36064517652037e961",
+      "last_updated": "2023-09-29T23:32:57.000Z",
+      "repo": "whosonfirst-data-admin-py"
+    },
+    {
+      "commit": "516f7a7ebf4d305ccc51c3843652d8227f281d6b",
+      "last_updated": "2023-09-29T22:34:38.000Z",
+      "repo": "whosonfirst-data-admin-ao"
+    },
+    {
+      "commit": "52f4904d93ad042dce411a8aa6e01e66924da687",
+      "last_updated": "2024-04-04T23:45:04.000Z",
+      "repo": "whosonfirst-data-admin-mk"
+    },
+    {
+      "commit": "539c0a866d02e444577c19f94955d5ddd57820e3",
+      "last_updated": "2023-09-29T23:40:02.000Z",
+      "repo": "whosonfirst-data-admin-tn"
+    },
+    {
+      "commit": "54b38234f8362e9d522d6d149a44cd0540d7554c",
+      "last_updated": "2023-09-29T22:38:43.000Z",
+      "repo": "whosonfirst-data-admin-bn"
+    },
+    {
+      "commit": "550d48af2b5d008e84dd8c8ec5bd6387f4280955",
+      "last_updated": "2023-09-29T23:36:49.000Z",
+      "repo": "whosonfirst-data-admin-sr"
+    },
+    {
+      "commit": "55552540f0f3639f52eebc5d5428c905674d92c9",
+      "last_updated": "2024-09-21T05:03:49.000Z",
+      "repo": "whosonfirst-data-admin-ph"
+    },
+    {
+      "commit": "5578f7c03b3484f88b44f690303ae22d62311796",
+      "last_updated": "2025-09-12T17:49:24.000Z",
+      "repo": "whosonfirst-data-admin-au"
+    },
+    {
+      "commit": "5778279faadec1ef077694e2aa78b0eeacdfc8a3",
+      "last_updated": "2023-09-29T22:42:43.000Z",
+      "repo": "whosonfirst-data-admin-ck"
+    },
+    {
+      "commit": "579d7d80a351e7eed57a7312c750b24e59170b60",
+      "last_updated": "2024-03-05T18:01:24.000Z",
+      "repo": "whosonfirst-data-admin-ms"
+    },
+    {
+      "commit": "57cbf256521464200f0ed7d36d1888929e2ec270",
+      "last_updated": "2023-09-29T23:46:25.000Z",
+      "repo": "whosonfirst-data-admin-xz"
+    },
+    {
+      "commit": "59406cd47a3ed158ac4e3ab4b6504a36e2deaf82",
+      "last_updated": "2024-12-24T00:31:00.000Z",
+      "repo": "whosonfirst-data-admin-pl"
+    },
+    {
+      "commit": "5af48b3bf90f0cb8381247c0a6e25939052b75ec",
+      "last_updated": "2024-03-08T16:42:11.000Z",
+      "repo": "whosonfirst-data-admin-ro"
+    },
+    {
+      "commit": "5d993d094146c96ebbad25340b83b8e59be3aa8c",
+      "last_updated": "2024-03-05T18:01:16.000Z",
+      "repo": "whosonfirst-data-admin-fi"
+    },
+    {
+      "commit": "5de675eb832c213940e7adbb630d8f6369f304cb",
+      "last_updated": "2023-09-29T23:37:52.000Z",
+      "repo": "whosonfirst-data-admin-sz"
+    },
+    {
+      "commit": "60a1be511813ef77d746666d09b567621eb781ec",
+      "last_updated": "2023-08-25T05:59:56.000Z",
+      "repo": "whosonfirst-data-admin-mq"
+    },
+    {
+      "commit": "61ed8eebf6dcf9fcd50604a7461e7130ba98032f",
+      "last_updated": "2024-11-05T01:19:04.000Z",
+      "repo": "whosonfirst-data-admin-tw"
+    },
+    {
+      "commit": "6334c18551b2edbd7f24d2e462b05d687ff5b6f7",
+      "last_updated": "2025-02-20T20:25:37.000Z",
+      "repo": "whosonfirst-data-admin-mx"
+    },
+    {
+      "commit": "6440f6d79c9a633bbdf9f741b01c52c0d58dcacb",
+      "last_updated": "2024-03-06T18:13:37.000Z",
+      "repo": "whosonfirst-data-admin-er"
+    },
+    {
+      "commit": "64bcc532848861ab02e865463fd8063c3f7c33b3",
+      "last_updated": "2024-03-05T18:04:24.000Z",
+      "repo": "whosonfirst-data-admin-je"
+    },
+    {
+      "commit": "64fb369ae2de817c080d4881addfa038198ca859",
+      "last_updated": "2023-09-29T23:13:10.000Z",
+      "repo": "whosonfirst-data-admin-km"
+    },
+    {
+      "commit": "65a9c3ae2290e0deac0b0d6e8867b04f0ba9bf57",
+      "last_updated": "2024-03-05T18:03:51.000Z",
+      "repo": "whosonfirst-data-admin-kz"
+    },
+    {
+      "commit": "66825c34b3c91885450cc4e6faf28ba30026e5c1",
+      "last_updated": "2024-05-02T17:23:17.000Z",
+      "repo": "whosonfirst-data-admin-dj"
+    },
+    {
+      "commit": "6756ea78eb1421cedcc9ba71458a6231fd90dd59",
+      "last_updated": "2023-08-29T16:11:30.000Z",
+      "repo": "whosonfirst-data-admin-bq"
+    },
+    {
+      "commit": "675bd9da3c0512d894813653b1f43f196d19163c",
+      "last_updated": "2024-03-06T18:17:39.000Z",
+      "repo": "whosonfirst-data-admin-mf"
+    },
+    {
+      "commit": "68031512025f4f86c7c1eab980efd9b98948199f",
+      "last_updated": "2024-03-05T18:04:44.000Z",
+      "repo": "whosonfirst-data-admin-ai"
+    },
+    {
+      "commit": "680f786e6b8d9be92ea511772e5e094ac8783cd7",
+      "last_updated": "2023-09-29T23:38:54.000Z",
+      "repo": "whosonfirst-data-admin-tg"
+    },
+    {
+      "commit": "6825c7ffe81e32e533ac58818fcec9501639aab6",
+      "last_updated": "2024-03-05T18:02:27.000Z",
+      "repo": "whosonfirst-data-admin-nr"
+    },
+    {
+      "commit": "6902ff6b3c5b716a790f07809216a623caa6bfc7",
+      "last_updated": "2024-03-06T18:14:34.000Z",
+      "repo": "whosonfirst-data-admin-im"
+    },
+    {
+      "commit": "6a1a039b96762558ce7994da23de0c6513e9cb0a",
+      "last_updated": "2020-07-02T23:40:15.000Z",
+      "repo": "whosonfirst-data-admin-ko"
+    },
+    {
+      "commit": "6ac4e1339705ddb8e99d3d85d5837a23b0cca09b",
+      "last_updated": "2024-11-05T01:19:07.000Z",
+      "repo": "whosonfirst-data-admin-jp"
+    },
+    {
+      "commit": "6add06025ba097a74a736cff93fd67dd1c903bf7",
+      "last_updated": "2024-03-05T18:02:38.000Z",
+      "repo": "whosonfirst-data-admin-ma"
+    },
+    {
+      "commit": "6b6b5b0ee892426a1308bb5f789ce905e9c3a0b1",
+      "last_updated": "2024-03-06T18:14:22.000Z",
+      "repo": "whosonfirst-data-admin-gn"
+    },
+    {
+      "commit": "6c5ce9321629b3c82c6267366fd5bed8e5b0bbaf",
+      "last_updated": "2023-09-29T22:52:23.000Z",
+      "repo": "whosonfirst-data-admin-gd"
+    },
+    {
+      "commit": "6e1a51a6c0ba58a93fffa2104fd785f7b24995a5",
+      "last_updated": "2024-04-04T23:45:23.000Z",
+      "repo": "whosonfirst-data-admin-me"
+    },
+    {
+      "commit": "6f6efcc86a51f54fd60b10462bd9dc6466fecb47",
+      "last_updated": "2024-03-05T18:03:42.000Z",
+      "repo": "whosonfirst-data-admin-hr"
+    },
+    {
+      "commit": "73817c9d7af87959562e55724c24b31a2acfc0b0",
+      "last_updated": "2024-09-21T05:05:14.000Z",
+      "repo": "whosonfirst-data-admin-hn"
+    },
+    {
+      "commit": "74365365e3707cf1af98b1d5950347139aa5378c",
+      "last_updated": "2025-10-14T03:48:37.000Z",
+      "repo": "whosonfirst-data-admin-ee"
+    },
+    {
+      "commit": "743e9a7ff0fc3363995c1b3fd9444b4b9986c5ff",
+      "last_updated": "2024-03-05T18:01:35.000Z",
+      "repo": "whosonfirst-data-admin-rs"
+    },
+    {
+      "commit": "74c1d59abbd43e37c90a6cb9ad7366aa3fc0c9d3",
+      "last_updated": "2024-03-05T18:13:20.000Z",
+      "repo": "whosonfirst-data-admin-ch"
+    },
+    {
+      "commit": "757ea235586d7c321d80acd50dd0983b6af986c6",
+      "last_updated": "2023-09-29T22:33:04.000Z",
+      "repo": "whosonfirst-data-admin-ad"
+    },
+    {
+      "commit": "75b056dedc3dfc5c3aff6c91e5ae9c6ab97ae79e",
+      "last_updated": "2023-09-29T23:35:27.000Z",
+      "repo": "whosonfirst-data-admin-sg"
+    },
+    {
+      "commit": "763e334ccba831ce860cb4e52eb59af4f68e89f1",
+      "last_updated": "2024-08-22T01:52:57.000Z",
+      "repo": "whosonfirst-data-admin-th"
+    },
+    {
+      "commit": "7686704c083730d9f6c5af646602cff30629f3db",
+      "last_updated": "2024-11-05T01:19:16.000Z",
+      "repo": "whosonfirst-data-admin-cn"
+    },
+    {
+      "commit": "782c357a01943743f86dec22020a4a84f34399ad",
+      "last_updated": "2023-09-29T22:53:44.000Z",
+      "repo": "whosonfirst-data-admin-gp"
+    },
+    {
+      "commit": "7b20d9347b6f99666334dcc71a292e78a2040a00",
+      "last_updated": "2025-02-20T20:26:06.000Z",
+      "repo": "whosonfirst-data-admin-cr"
+    },
+    {
+      "commit": "7b87b1de9a1eacc2a0be4301a59a516071e52f37",
+      "last_updated": "2024-03-06T18:16:01.000Z",
+      "repo": "whosonfirst-data-admin-uz"
+    },
+    {
+      "commit": "7b89ae4d0947c2400b05bb2e810f817771bd8e04",
+      "last_updated": "2024-05-30T21:09:50.000Z",
+      "repo": "whosonfirst-data-admin-jm"
+    },
+    {
+      "commit": "7c281d92045079518fec0ed7432667d606b34541",
+      "last_updated": "2024-03-05T18:04:56.000Z",
+      "repo": "whosonfirst-data-admin-hk"
+    },
+    {
+      "commit": "7c80ee329e28202cb3d82b24998069f1c8cd7bcc",
+      "last_updated": "2024-03-05T18:05:18.000Z",
+      "repo": "whosonfirst-data-admin-tl"
+    },
+    {
+      "commit": "7d51accba795cf9f5a2ffaaae493d33177acf81d",
+      "last_updated": "2023-09-29T23:36:59.000Z",
+      "repo": "whosonfirst-data-admin-ss"
+    },
+    {
+      "commit": "7dbc9dad25f2af156a330768cdff834479e489af",
+      "last_updated": "2024-03-06T18:11:57.000Z",
+      "repo": "whosonfirst-data-admin-td"
+    },
+    {
+      "commit": "7de5cb1ea3ee4b9239d8b505e5221853615ea14b",
+      "last_updated": "2023-09-29T23:17:07.000Z",
+      "repo": "whosonfirst-data-admin-mg"
+    },
+    {
+      "commit": "7dffdf24a237bc89ccee576642fdd59114b38501",
+      "last_updated": "2024-03-05T18:04:27.000Z",
+      "repo": "whosonfirst-data-admin-ba"
+    },
+    {
+      "commit": "7e1d6fb95469c75e964be66c794bec75069779b3",
+      "last_updated": "2024-09-15T04:24:12.000Z",
+      "repo": "whosonfirst-data-admin-ve"
+    },
+    {
+      "commit": "81b456bb142c8422e505188d78dea16870ae3393",
+      "last_updated": "2020-07-02T23:41:19.000Z",
+      "repo": "whosonfirst-data-admin-dn"
+    },
+    {
+      "commit": "8255f3cc87c167f9b0817e64a29623eec69274dd",
+      "last_updated": "2024-03-06T18:16:41.000Z",
+      "repo": "whosonfirst-data-admin-vi"
+    },
+    {
+      "commit": "8258f56d594ec63610594b96c6c74810fa0f6584",
+      "last_updated": "2024-03-05T18:01:44.000Z",
+      "repo": "whosonfirst-data-admin-fj"
+    },
+    {
+      "commit": "83cd35144157b97edf419efaff7b196458886896",
+      "last_updated": "2024-07-24T17:14:42.000Z",
+      "repo": "whosonfirst-data-admin-xn"
+    },
+    {
+      "commit": "83d9f7b402a3bc7fbafe23ba9ed9d8dda8520e80",
+      "last_updated": "2023-09-29T23:16:27.000Z",
+      "repo": "whosonfirst-data-admin-mc"
+    },
+    {
+      "commit": "855fe63efa5760444da0c3715243957cd982cd5b",
+      "last_updated": "2023-08-29T00:23:10.000Z",
+      "repo": "whosonfirst-data-admin-vg"
+    },
+    {
+      "commit": "868973426cba94338ea2cb1ec545ddc442a5a0f6",
+      "last_updated": "2023-09-29T22:52:53.000Z",
+      "repo": "whosonfirst-data-admin-gg"
+    },
+    {
+      "commit": "86ac96124996cb183179ab0ea802f13298f1a88b",
+      "last_updated": "2023-09-29T22:48:29.000Z",
+      "repo": "whosonfirst-data-admin-et"
+    },
+    {
+      "commit": "8705010ac11ce2a3fdc8162ab45fc22644c417ad",
+      "last_updated": "2023-09-29T23:45:14.000Z",
+      "repo": "whosonfirst-data-admin-wf"
+    },
+    {
+      "commit": "87b91beccd71f318e7f5d2295c565ac94b0c9b91",
+      "last_updated": "2024-03-05T18:01:47.000Z",
+      "repo": "whosonfirst-data-admin-ci"
+    },
+    {
+      "commit": "87ee6c02b7314b94711c1dce9e693393247812d1",
+      "last_updated": "2024-03-05T18:04:12.000Z",
+      "repo": "whosonfirst-data-admin-ga"
+    },
+    {
+      "commit": "88853f2d9c154221043eb928d556ba6f2a8ddb8b",
+      "last_updated": "2024-03-06T18:13:09.000Z",
+      "repo": "whosonfirst-data-admin-ec"
+    },
+    {
+      "commit": "89adaf11a2904b9763a50925f560f33f1f8246c6",
+      "last_updated": "2023-09-29T23:18:14.000Z",
+      "repo": "whosonfirst-data-admin-mo"
+    },
+    {
+      "commit": "8ab786d24a6788526d39d14b44d94a69a96f416c",
+      "last_updated": "2023-09-29T23:34:43.000Z",
+      "repo": "whosonfirst-data-admin-sc"
+    },
+    {
+      "commit": "8b38bf214af7a4b0d6b09008c51b7e8b700a08a5",
+      "last_updated": "2023-09-29T23:13:55.000Z",
+      "repo": "whosonfirst-data-admin-kw"
+    },
+    {
+      "commit": "8bebe67601e74660d9cf08d55b30ed29f2949c91",
+      "last_updated": "2024-03-05T18:03:22.000Z",
+      "repo": "whosonfirst-data-admin-am"
+    },
+    {
+      "commit": "8c0299955a7c2e8312f6d3eb2b0fa142c1ab6abb",
+      "last_updated": "2023-09-29T23:18:33.000Z",
+      "repo": "whosonfirst-data-admin-mr"
+    },
+    {
+      "commit": "8c8a9629b9c24a8a14e71d9529fa0604780a231c",
+      "last_updated": "2025-10-14T04:33:58.000Z",
+      "repo": "whosonfirst-data-admin-co"
+    },
+    {
+      "commit": "8c9b8b21f909af75e2b1d307c4c58cdb9ed14cc5",
+      "last_updated": "2023-09-29T22:40:38.000Z",
+      "repo": "whosonfirst-data-admin-bw"
+    },
+    {
+      "commit": "8d126343dd9220dc59f0cc5ef214781d484acd84",
+      "last_updated": "2024-03-05T18:07:37.000Z",
+      "repo": "whosonfirst-data-admin-kg"
+    },
+    {
+      "commit": "8dfcffb45a59e082f5ad370f18bb35359758eb92",
+      "last_updated": "2023-09-29T23:34:33.000Z",
+      "repo": "whosonfirst-data-admin-sb"
+    },
+    {
+      "commit": "8e2ad165a3b0a8835a2c76b6116e6ce777c121be",
+      "last_updated": "2024-03-05T18:07:28.000Z",
+      "repo": "whosonfirst-data-admin-be"
+    },
+    {
+      "commit": "8e545d3d816c4c1138144cc4a9211fa2a16e9520",
+      "last_updated": "2023-09-29T23:19:04.000Z",
+      "repo": "whosonfirst-data-admin-mu"
+    },
+    {
+      "commit": "8f5d480580ba162c98184d2160ccebfc4b950965",
+      "last_updated": "2023-09-29T23:45:04.000Z",
+      "repo": "whosonfirst-data-admin-vu"
+    },
+    {
+      "commit": "8f84aa8dbe6bbbc68d1f1920f20a58beec1e941d",
+      "last_updated": "2023-09-29T22:37:05.000Z",
+      "repo": "whosonfirst-data-admin-bb"
+    },
+    {
+      "commit": "917a7c9b1b80ab6467cf36800b9e3567a65db1d6",
+      "last_updated": "2024-03-06T18:15:26.000Z",
+      "repo": "whosonfirst-data-admin-re"
+    },
+    {
+      "commit": "91f9ee96c711fcef509336f42900bf1c1f44d6f6",
+      "last_updated": "2023-09-29T23:28:04.000Z",
+      "repo": "whosonfirst-data-admin-na"
+    },
+    {
+      "commit": "932e39577cf5e7bae70f3cb2464cae6e04f261e9",
+      "last_updated": "2023-09-29T23:40:47.000Z",
+      "repo": "whosonfirst-data-admin-tv"
+    },
+    {
+      "commit": "948432c281d6d8b4d3994ce3b938e82b775d9078",
+      "last_updated": "2024-03-04T22:16:46.000Z",
+      "repo": "whosonfirst-data-admin-af"
+    },
+    {
+      "commit": "952411d1aeab7c160172811f984df8656e58e442",
+      "last_updated": "2023-08-29T16:00:24.000Z",
+      "repo": "whosonfirst-data-admin-sj"
+    },
+    {
+      "commit": "96439cb390e441c7026e40a750fb06aef7ced923",
+      "last_updated": "2024-03-05T18:04:31.000Z",
+      "repo": "whosonfirst-data-admin-om"
+    },
+    {
+      "commit": "9713f62da20bbbdeed444c4534b481c94eb78d61",
+      "last_updated": "2023-09-29T22:45:05.000Z",
+      "repo": "whosonfirst-data-admin-cy"
+    },
+    {
+      "commit": "9840168fd62b5f5b078200c78fcd9c85c5f28d79",
+      "last_updated": "2024-03-06T18:12:32.000Z",
+      "repo": "whosonfirst-data-admin-lt"
+    },
+    {
+      "commit": "9845a26bf0c56b717c822656b3826a0edb18fdbb",
+      "last_updated": "2023-08-29T15:37:11.000Z",
+      "repo": "whosonfirst-data-admin-cx"
+    },
+    {
+      "commit": "989d49b3fca0dd04ef3bb3a92c1629d9df4ee861",
+      "last_updated": "2024-03-05T18:04:19.000Z",
+      "repo": "whosonfirst-data-admin-br"
+    },
+    {
+      "commit": "991bd5901e43fa1621ea4cac8896fe1aede7f19e",
+      "last_updated": "2024-03-06T18:12:09.000Z",
+      "repo": "whosonfirst-data-admin-bm"
+    },
+    {
+      "commit": "99cc7d2aafbca97c5c7e3f65f97b9e730ee57608",
+      "last_updated": "2024-07-30T05:30:19.000Z",
+      "repo": "whosonfirst-data-admin-ru"
+    },
+    {
+      "commit": "9b59233480a41b5a56b89395427184dfdb9a3895",
+      "last_updated": "2023-09-29T23:40:38.000Z",
+      "repo": "whosonfirst-data-admin-tt"
+    },
+    {
+      "commit": "9c947736c1320b40bd080e879a8e5f03c99b55d2",
+      "last_updated": "2024-07-30T02:27:52.000Z",
+      "repo": "whosonfirst-data-admin-do"
+    },
+    {
+      "commit": "9cd248c6f231c5a5b7fbba93def971844a5e1e69",
+      "last_updated": "2025-04-07T05:25:23.000Z",
+      "repo": "whosonfirst-data-admin-us"
+    },
+    {
+      "commit": "9d9505636e218b103e5fea4a000eca608b3a3f83",
+      "last_updated": "2023-09-29T23:41:54.000Z",
+      "repo": "whosonfirst-data-admin-un"
+    },
+    {
+      "commit": "9da6ede8dcdfe8d1a5ee386cc6623ddef8687734",
+      "last_updated": "2024-03-06T18:12:46.000Z",
+      "repo": "whosonfirst-data-admin-cg"
+    },
+    {
+      "commit": "9e61b4d2a7035c9a3888b66433a9c48fa3345f01",
+      "last_updated": "2025-10-14T03:55:32.000Z",
+      "repo": "whosonfirst-data-admin-pk"
+    },
+    {
+      "commit": "9fd26925a73f33986357a49f85b73613376da129",
+      "last_updated": "2024-03-06T18:13:00.000Z",
+      "repo": "whosonfirst-data-admin-zm"
+    },
+    {
+      "commit": "9fd5f1e302611ffa60a3e1f574a3802933d27c84",
+      "last_updated": "2024-03-05T18:07:46.000Z",
+      "repo": "whosonfirst-data-admin-kh"
+    },
+    {
+      "commit": "a301201ab39d3acc5bdcc0c8ba466fab5101a3dc",
+      "last_updated": "2024-05-30T19:31:01.000Z",
+      "repo": "whosonfirst-data-admin-nz"
+    },
+    {
+      "commit": "a35a394a22f7a7c38bb953ef72f3f28537e0b51a",
+      "last_updated": "2024-03-05T18:07:00.000Z",
+      "repo": "whosonfirst-data-admin-pg"
+    },
+    {
+      "commit": "a421cf3e28a53e1bd71ce46a6914aea543323e01",
+      "last_updated": "2024-03-06T18:15:33.000Z",
+      "repo": "whosonfirst-data-admin-ni"
+    },
+    {
+      "commit": "a43a55f3041b2a863b7804c76b0ba29f89fac4f1",
+      "last_updated": "2024-03-06T18:16:18.000Z",
+      "repo": "whosonfirst-data-admin-cu"
+    },
+    {
+      "commit": "a799fb4e6170769bfc56c63b1792792c70467a23",
+      "last_updated": "2024-03-08T16:42:22.000Z",
+      "repo": "whosonfirst-data-admin-xk"
+    },
+    {
+      "commit": "a8abe58d2ee4b14715f6f5db6c1c0ccd36829f4d",
+      "last_updated": "2024-03-05T18:03:05.000Z",
+      "repo": "whosonfirst-data-admin-ax"
+    },
+    {
+      "commit": "a8e476e438273c740094c49e5b2a2a5c8c513916",
+      "last_updated": "2024-03-05T18:01:32.000Z",
+      "repo": "whosonfirst-data-admin-lv"
+    },
+    {
+      "commit": "a96a8df62981ed0e1b2a0be278dd33670a4e6605",
+      "last_updated": "2024-03-05T18:05:14.000Z",
+      "repo": "whosonfirst-data-admin-ye"
+    },
+    {
+      "commit": "ace2a28b795144711fac6518b11f2793cf9034d8",
+      "last_updated": "2024-03-06T18:14:50.000Z",
+      "repo": "whosonfirst-data-admin-ng"
+    },
+    {
+      "commit": "ae87919cac09a4c1d1e646c06f08e7ea7148c121",
+      "last_updated": "2024-05-30T04:19:09.000Z",
+      "repo": "whosonfirst-data-admin-cl"
+    },
+    {
+      "commit": "aec295a1ab7513050d39d7ec5e9e66d5347d76c1",
+      "last_updated": "2024-03-05T18:04:52.000Z",
+      "repo": "whosonfirst-data-admin-rw"
+    },
+    {
+      "commit": "af17dae7664542053ce228fddf2306aa16814dd7",
+      "last_updated": "2020-12-08T19:15:25.000Z",
+      "repo": "whosonfirst-data-admin-io"
+    },
+    {
+      "commit": "b02c630a52c4b64e5cba6d67f3b84fcef4476640",
+      "last_updated": "2024-03-08T16:40:50.000Z",
+      "repo": "whosonfirst-data-admin-at"
+    },
+    {
+      "commit": "b0ed6a52a402bdd7f843af349ab823dc7c255b9f",
+      "last_updated": "2024-03-05T18:03:46.000Z",
+      "repo": "whosonfirst-data-admin-al"
+    },
+    {
+      "commit": "b33035f6e2b9c4d7e27b47e563a4b8799d5dc7f3",
+      "last_updated": "2024-03-05T18:07:13.000Z",
+      "repo": "whosonfirst-data-admin-ke"
+    },
+    {
+      "commit": "b35888f625beec7c2aa28f87a32ae1ff7bc67bc3",
+      "last_updated": "2024-03-05T18:07:41.000Z",
+      "repo": "whosonfirst-data-admin-lr"
+    },
+    {
+      "commit": "b515d5f9bc638ea7675190595a374dd1347e5b42",
+      "last_updated": "2023-09-29T23:37:10.000Z",
+      "repo": "whosonfirst-data-admin-st"
+    },
+    {
+      "commit": "b6613ee7c27c467e847bdc5a9b8d192d4e2ae411",
+      "last_updated": "2024-03-06T18:15:13.000Z",
+      "repo": "whosonfirst-data-admin-gr"
+    },
+    {
+      "commit": "b69d86793f423a3d9b5c14aca16d249e3ab46ae0",
+      "last_updated": "2024-03-06T18:15:19.000Z",
+      "repo": "whosonfirst-data-admin-qa"
+    },
+    {
+      "commit": "b7556b31519035c9c31a0448a9bec7e7ecc1b7b0",
+      "last_updated": "2023-09-29T23:14:49.000Z",
+      "repo": "whosonfirst-data-admin-li"
+    },
+    {
+      "commit": "b881be3020bdd8ab2f270aaa8e5b07dbff918d00",
+      "last_updated": "2024-03-05T18:03:33.000Z",
+      "repo": "whosonfirst-data-admin-lb"
+    },
+    {
+      "commit": "b8c0ae6f6469102c0dbf33fecdaab0209496ac9b",
+      "last_updated": "2024-03-05T18:07:21.000Z",
+      "repo": "whosonfirst-data-admin-sv"
+    },
+    {
+      "commit": "b901169b644a8af58ff6eb470f77bacc661dfc6f",
+      "last_updated": "2024-03-06T18:15:06.000Z",
+      "repo": "whosonfirst-data-admin-pw"
+    },
+    {
+      "commit": "ba045a853bf6d4ef4392f50a15d0aefbd04520b5",
+      "last_updated": "2024-03-05T18:05:33.000Z",
+      "repo": "whosonfirst-data-admin-dk"
+    },
+    {
+      "commit": "bb971c736db637ebfdbb021ba045a242c67c8204",
+      "last_updated": "2020-07-02T23:41:07.000Z",
+      "repo": "whosonfirst-data-admin-tu"
+    },
+    {
+      "commit": "bd0b6a90cbc6175a2acbb5527d6370b9123ed519",
+      "last_updated": "2023-08-26T02:23:56.000Z",
+      "repo": "whosonfirst-data-admin-yt"
+    },
+    {
+      "commit": "bf203ea1ac2c3c5663224929b0e912e89f2fd543",
+      "last_updated": "2023-09-29T23:47:12.000Z",
+      "repo": "whosonfirst-data-admin-zw"
+    },
+    {
+      "commit": "bf46a5fb9b4e540293362fba5f28a15af2004828",
+      "last_updated": "2024-03-05T18:06:31.000Z",
+      "repo": "whosonfirst-data-admin-md"
+    },
+    {
+      "commit": "bf55cafe98f9010d99a749a80b58822ca3a0ff42",
+      "last_updated": "2024-05-30T19:31:27.000Z",
+      "repo": "whosonfirst-data-admin-lc"
+    },
+    {
+      "commit": "c058a1142aed92b736d549465b67c339527916d6",
+      "last_updated": "2024-03-06T18:15:22.000Z",
+      "repo": "whosonfirst-data-admin-gt"
+    },
+    {
+      "commit": "c0641831b931e01c334115278f5888898b58f8d3",
+      "last_updated": "2024-03-05T18:02:23.000Z",
+      "repo": "whosonfirst-data-admin-fk"
+    },
+    {
+      "commit": "c0e2aef6a38f0580acb78815866b0f6b15722558",
+      "last_updated": "2024-12-24T00:07:45.000Z",
+      "repo": "whosonfirst-data-admin-it"
+    },
+    {
+      "commit": "c4b2c6d7d8ff7bd297e29eca5f15ab12238ec15a",
+      "last_updated": "2023-09-29T22:34:21.000Z",
+      "repo": "whosonfirst-data-admin-an"
+    },
+    {
+      "commit": "c50d7036853d69db8b3c176ee2c26251c3049dbf",
+      "last_updated": "2024-03-05T18:05:28.000Z",
+      "repo": "whosonfirst-data-admin-mw"
+    },
+    {
+      "commit": "c51ce2066d896ca3883a24b7182382a9ba069bc9",
+      "last_updated": "2024-03-06T18:13:14.000Z",
+      "repo": "whosonfirst-data-admin-gh"
+    },
+    {
+      "commit": "c5230d1768b7fd8ce064e2bc44ee653c24970137",
+      "last_updated": "2023-09-29T23:44:06.000Z",
+      "repo": "whosonfirst-data-admin-va"
+    },
+    {
+      "commit": "c58509ee4df6748b7c85d10e6e56b2f97d5de6e5",
+      "last_updated": "2024-03-06T18:16:06.000Z",
+      "repo": "whosonfirst-data-admin-ws"
+    },
+    {
+      "commit": "c6c88a155fe0215a778e4a80118a9a3d4a5c7071",
+      "last_updated": "2024-07-30T05:26:29.000Z",
+      "repo": "whosonfirst-data-admin-bd"
+    },
+    {
+      "commit": "c7176231a2453d638e518da65bd3b79c0a3f9108",
+      "last_updated": "2024-03-06T18:12:29.000Z",
+      "repo": "whosonfirst-data-admin-my"
+    },
+    {
+      "commit": "c8a200af728dec95769b0739da24ab55f57dcca8",
+      "last_updated": "2023-08-29T18:28:04.000Z",
+      "repo": "whosonfirst-data-admin-bl"
+    },
+    {
+      "commit": "ca29d90501586ece8c861ce520842669adcea3d5",
+      "last_updated": "2024-03-08T16:42:30.000Z",
+      "repo": "whosonfirst-data-admin-sa"
+    },
+    {
+      "commit": "cc8a49e29f81f6be84f6e346c9797f5a0f483d7d",
+      "last_updated": "2024-07-29T04:47:52.000Z",
+      "repo": "whosonfirst-data-admin-pr"
+    },
+    {
+      "commit": "cd35f02aebf78ed5cd5a0cc94c1252c3eb4b4b82",
+      "last_updated": "2024-03-05T18:07:50.000Z",
+      "repo": "whosonfirst-data-admin-ki"
+    },
+    {
+      "commit": "ce33b1b6c79382957fa45354a1c19fcc6d3b0d66",
+      "last_updated": "2023-09-29T23:15:00.000Z",
+      "repo": "whosonfirst-data-admin-lk"
+    },
+    {
+      "commit": "d003dacd4196f107d855848a8c9c498658c4c93b",
+      "last_updated": "2024-03-06T18:17:33.000Z",
+      "repo": "whosonfirst-data-admin-mh"
+    },
+    {
+      "commit": "d29cf1117b79b5f9bc9f3cfc53854b12b3704f61",
+      "last_updated": "2024-03-05T18:07:07.000Z",
+      "repo": "whosonfirst-data-admin-sx"
+    },
+    {
+      "commit": "d2ebb5f61dc8b6384a01c93e69aa50000dceb153",
+      "last_updated": "2024-07-29T04:48:10.000Z",
+      "repo": "whosonfirst-data-admin-ca"
+    },
+    {
+      "commit": "d47f77d8116e96ad9ef56e90df1029e4ea947a6c",
+      "last_updated": "2024-03-05T18:06:35.000Z",
+      "repo": "whosonfirst-data-admin-uy"
+    },
+    {
+      "commit": "d4fdc8bf3818430661236fe9a31d0108dfafb86d",
+      "last_updated": "2024-07-29T04:46:20.000Z",
+      "repo": "whosonfirst-data-admin-as"
+    },
+    {
+      "commit": "d54583566582933691bf1e1f252933625b96dd8d",
+      "last_updated": "2024-03-05T18:06:21.000Z",
+      "repo": "whosonfirst-data-admin-cm"
+    },
+    {
+      "commit": "d5468610c1570de78ea8ec63af428ef3f79d4484",
+      "last_updated": "2023-09-29T22:39:58.000Z",
+      "repo": "whosonfirst-data-admin-bs"
+    },
+    {
+      "commit": "d7e7dea15baa7d90f6605040a923ca66d3614a15",
+      "last_updated": "2024-03-06T18:12:24.000Z",
+      "repo": "whosonfirst-data-admin-cf"
+    },
+    {
+      "commit": "d83c1e5326a9c867f3299e6c2a06435c684cd2f8",
+      "last_updated": "2024-03-05T18:03:29.000Z",
+      "repo": "whosonfirst-data-admin-ht"
+    },
+    {
+      "commit": "d9a323b08fcadfc27d8cb245ba038c5329171ba6",
+      "last_updated": "2024-03-05T18:06:24.000Z",
+      "repo": "whosonfirst-data-admin-de"
+    },
+    {
+      "commit": "dcc2b39005fe302c18d44fcbf9fc03732160870b",
+      "last_updated": "2023-09-29T23:28:24.000Z",
+      "repo": "whosonfirst-data-admin-ne"
+    },
+    {
+      "commit": "dd7dd1463224330c19de1e56f976c5c17dc3816e",
+      "last_updated": "2023-09-29T22:53:53.000Z",
+      "repo": "whosonfirst-data-admin-gq"
+    },
+    {
+      "commit": "df0be7155c23927f09b6c03e6faa466affccccbd",
+      "last_updated": "2023-09-29T22:38:12.000Z",
+      "repo": "whosonfirst-data-admin-bi"
+    },
+    {
+      "commit": "df2de3de8cb9526bcf7ef67c959d4536761a09dc",
+      "last_updated": "2024-03-06T18:13:56.000Z",
+      "repo": "whosonfirst-data-admin-gi"
+    },
+    {
+      "commit": "dfa1a6a5cbbc630557c748994ff9ba6acb6f9fb9",
+      "last_updated": "2024-03-05T18:04:08.000Z",
+      "repo": "whosonfirst-data-admin-tm"
+    },
+    {
+      "commit": "e159201e549c21e326c721e7cb300ff1c8bff179",
+      "last_updated": "2025-10-14T04:12:26.000Z",
+      "repo": "whosonfirst-data-admin-ps"
+    },
+    {
+      "commit": "e174b861629f63b02aac49a97e766b4078f6703e",
+      "last_updated": "2024-03-05T18:05:40.000Z",
+      "repo": "whosonfirst-data-admin-az"
+    },
+    {
+      "commit": "e25055b6ebf9cc1ee9b17e2c5c01b4d96f4167b9",
+      "last_updated": "2024-11-14T05:01:28.000Z",
+      "repo": "whosonfirst-data-admin-pt"
+    },
+    {
+      "commit": "e79ef2b18a88d6415e97831fc641a03d8806d3dd",
+      "last_updated": "2023-09-29T23:38:43.000Z",
+      "repo": "whosonfirst-data-admin-tf"
+    },
+    {
+      "commit": "e7fd9f608bb9cc9cdb59806e1333df3d115f32b1",
+      "last_updated": "2023-09-29T23:38:23.000Z",
+      "repo": "whosonfirst-data-admin-tc"
+    },
+    {
+      "commit": "e84af6651e3ce17f7180615f8453631e824dd616",
+      "last_updated": "2023-09-29T22:41:29.000Z",
+      "repo": "whosonfirst-data-admin-cc"
+    },
+    {
+      "commit": "e9a83f91022a4e0813dd955ac8b55d9d02c358ad",
+      "last_updated": "2023-09-29T23:15:22.000Z",
+      "repo": "whosonfirst-data-admin-ls"
+    },
+    {
+      "commit": "ec74b6e6d2527f683dfac1da323d3e48110f7935",
+      "last_updated": "2024-03-05T18:07:10.000Z",
+      "repo": "whosonfirst-data-admin-bf"
+    },
+    {
+      "commit": "ee9cc5923c83f1d69ef0c227d7a1eb6806ea088f",
+      "last_updated": "2023-09-29T23:36:19.000Z",
+      "repo": "whosonfirst-data-admin-sm"
+    },
+    {
+      "commit": "f06cc84565317de5d0bb25a99440a363badfa67e",
+      "last_updated": "2024-03-05T18:06:38.000Z",
+      "repo": "whosonfirst-data-admin-pe"
+    },
+    {
+      "commit": "f0ed02034a97ed7c41091367027d54fdca927060",
+      "last_updated": "2023-09-29T23:45:53.000Z",
+      "repo": "whosonfirst-data-admin-xs"
+    },
+    {
+      "commit": "f0fa160452faea2938b5bfc7c662d9451aa691b6",
+      "last_updated": "2023-09-29T23:39:32.000Z",
+      "repo": "whosonfirst-data-admin-tk"
+    },
+    {
+      "commit": "f166490c04538042772500bf353d96a479922255",
+      "last_updated": "2024-03-06T18:13:48.000Z",
+      "repo": "whosonfirst-data-admin-il"
+    },
+    {
+      "commit": "f543249a960a46ee1def06d9bb0e9a0d25c59445",
+      "last_updated": "2024-03-06T18:12:12.000Z",
+      "repo": "whosonfirst-data-admin-cd"
+    },
+    {
+      "commit": "f54ac340ead165d469f7782684f3550fef7aeadb",
+      "last_updated": "2025-01-21T00:06:49.000Z",
+      "repo": "whosonfirst-data-admin-ar"
+    },
+    {
+      "commit": "f7811c7e8557dfad725a152be619b9012b5ba251",
+      "last_updated": "2024-03-05T18:06:17.000Z",
+      "repo": "whosonfirst-data-admin-se"
+    },
+    {
+      "commit": "f7b35802f907eb1eb010f51586586bfaac5bb7e5",
+      "last_updated": "2024-03-06T18:15:38.000Z",
+      "repo": "whosonfirst-data-admin-nl"
+    },
+    {
+      "commit": "f9c35b33aa1e2cd0f5b3f060478840635090c65d",
+      "last_updated": "2024-03-05T18:04:15.000Z",
+      "repo": "whosonfirst-data-admin-ky"
+    },
+    {
+      "commit": "fa83996bb3059b64411ff658aefcf81988c738dc",
+      "last_updated": "2023-09-29T22:38:02.000Z",
+      "repo": "whosonfirst-data-admin-bh"
+    },
+    {
+      "commit": "fa842c76b41a227455a6d3c1027ec2cd4bb29c85",
+      "last_updated": "2023-09-29T23:40:12.000Z",
+      "repo": "whosonfirst-data-admin-to"
+    },
+    {
+      "commit": "fbaebfce927dc86ba40cc4ab3e47289f745935bd",
+      "last_updated": "2023-09-29T23:28:14.000Z",
+      "repo": "whosonfirst-data-admin-nc"
+    },
+    {
+      "commit": "fbbe44bdac374e56b51b1de2419d67c2ae3e5c2b",
+      "last_updated": "2024-05-30T04:18:20.000Z",
+      "repo": "whosonfirst-data-admin-in"
+    },
+    {
+      "commit": "fc3f0a0c9f75d4dc4f226bee6e1ddbd8609325e6",
+      "last_updated": "2025-02-20T19:42:40.000Z",
+      "repo": "whosonfirst-data-admin-xy"
+    },
+    {
+      "commit": "fd201793a8339292491fa5f317f706cb6435f6bf",
+      "last_updated": "2024-05-30T19:31:41.000Z",
+      "repo": "whosonfirst-data-admin-vc"
+    },
+    {
+      "commit": "fd309a646f7f54562618d4514c7d0ab4050cb9c0",
+      "last_updated": "2024-03-05T18:03:25.000Z",
+      "repo": "whosonfirst-data-admin-sd"
+    }
+  ],
+  "name": "whosonfirst-data-admin-latest.db",
+  "name_compressed": "whosonfirst-data-admin-latest.db.bz2",
+  "repo": "whosonfirst-data-admin",
+  "sha256": "50f63769a9355a22aed7d61026bacf9bbd29bbb4dbd1f61e08b235df5b0c023e",
+  "sha256_compressed": "1aa4bffcdec60a865f2f77688479313f83ed6b078d3c4c755ce12b941475b7b1",
+  "size": 42429194240,
+  "size_compressed": 8596204210,
+  "vintage": "latest"
+}

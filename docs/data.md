@@ -155,9 +155,11 @@ optimizes FTS, checks span integrity, vacuums and atomically replaces its output
 The previous good artifact survives failed imports. Identical input/settings/tools
 produce deterministic bytes; different GEOS/SQLite versions may change bytes.
 
-Publish prepared data as separate release assets with SHA-256, recipe, snapshot
-and notices. The library source repository must not contain the global source or
-generated global DB. `tests/data/places.sqlite` is synthetic and small.
+Track prepared data with **Git LFS**, never ordinary Git blobs. The global profile
+is `data/places.sqlite`; recipe, snapshot, SHA-256 and notices accompany it. Do not
+check in the multi-gigabyte raw WOF export. `tests/data/places.sqlite` is synthetic
+and small, but uses the same LFS policy. CI must checkout with `lfs: true`.
+The prepared profile is also published as a checksum-verified release asset.
 
 The first prepared profile is
 [`wof-20251014-format1`](https://github.com/Klebert-Engineering/plazs/releases/tag/wof-20251014-format1):
@@ -167,8 +169,9 @@ Its download date does not make the October 2025 upstream snapshot newer.
 
 Consumers may explicitly include `cmake/dataset.cmake` and call
 `plazs_fetch_dataset(output_path)` to obtain this prepared SQLite file. The helper
-pins its SHA-256, caches the verified file, and serializes concurrent downloads.
-Building the library itself never downloads data. A custom offline artifact can
+uses the Git LFS checkout if present, otherwise downloads/caches the identical
+release asset with pinned SHA-256 and serialized concurrent downloads. Building
+the library itself does not invoke this helper. A custom offline artifact can
 be passed directly to the reader instead.
 
 ## Storage Decisions

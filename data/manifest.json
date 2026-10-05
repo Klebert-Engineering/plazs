@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "applicationId": "0x504C5A53",
+  "bytes": 42258432,
+  "sha256": "d5ede0050d521a04f47f6f7f70b52ca171b42082240c35ec9d599b9e9ccd6791",
+  "producerCommit": "5ecf37e30550def8a71ed893e70930ad2ba4093e",
+  "selection": {
+    "coordinateGridDegrees": 1.0728836059570312e-05,
+    "coordinateShift": 7,
+    "geometryEncoding": "zserio-nds-block64",
+    "geometryPlacetypes": [
+      "continent",
+      "country",
+      "dependency",
+      "locality",
+      "macroregion",
+      "region"
+    ],
+    "geosVersion": "3.13.1",
+    "languages": [],
+    "minLocalityPopulation": 5000,
+    "ndsmathVersion": "1.1.0",
+    "placetypes": [
+      "continent",
+      "country",
+      "dependency",
+      "locality",
+      "macroregion",
+      "region"
+    ],
+    "repair": "make_valid + NDS snap rounding; discard non-area components",
+    "schemaSha256": "c73216dee5fe868993cea65c45df739b3873e899bd72eabe1650a90e259bb0d9",
+    "shapelyVersion": "2.1.2",
+    "simplificationDegrees": 0.001,
+    "zserioVersion": "2.16.1"
+  },
+  "statistics": {
+    "counts": {
+      "boundaries": 47957,
+      "collapsed_components": 71,
+      "collapsed_rings": 402,
+      "continent": 8,
+      "country": 214,
+      "dependency": 40,
+      "excluded_locality_population_below_minimum": 4565281,
+      "excluded_locality_population_unknown": 120280,
+      "locality": 59853,
+      "macroregion": 100,
+      "places": 64459,
+      "region": 4244,
+      "repaired_quantized_boundaries": 157,
+      "repaired_upstream_boundaries": 121,
+      "scanned": 4750020,
+      "unsimplified_failed_boundaries": 8
+    },
+    "geometryBytes": {
+      "continent": 1405354,
+      "country": 6419669,
+      "dependency": 153970,
+      "locality": 6550080,
+      "macroregion": 1060733,
+      "region": 12251196
+    }
+  },
+  "audit": {
+    "places": 64459,
+    "boundaries": 47957,
+    "holes": 24703,
+    "maxVertices": 194861,
+    "seconds": 35.786022940068506
+  }
+}
