@@ -40,12 +40,14 @@ class BoundaryMemory final : public zserio::pmr::MemoryResource
         allocated_ += bytes;
         return memory;
     }
+
     /** Account for memory released while unwinding a malformed stream. */
     void doDeallocate(void* memory, size_t bytes, size_t alignment) override
     {
         std::pmr::new_delete_resource()->deallocate(memory, bytes, alignment);
         allocated_ -= bytes;
     }
+
     /** Every decode has an independent allocation budget. */
     bool doIsEqual(zserio::pmr::MemoryResource const& other) const noexcept override
     {
@@ -124,6 +126,8 @@ Gazetteer::Gazetteer(std::filesystem::path databasePath) : databasePath_(std::mo
     if (databasePath_.empty() || !std::filesystem::exists(databasePath_))
         throw std::runtime_error("Gazetteer file does not exist: " + databasePath_.string());
 
+    // Keep ownership guarded until every format check succeeds; construction
+    // failure must close the same handle used by the metadata probes.
     auto filename = databasePath_.u8string();
     auto rc = sqlite3_open_v2(
         reinterpret_cast<char const*>(filename.c_str()),
@@ -164,6 +168,8 @@ Gazetteer::Gazetteer(std::filesystem::path databasePath) : databasePath_(std::mo
             nullptr) == SQLITE_OK;
     sqlite3_finalize(check);
     check = nullptr;
+    // Decode the small schema metadata now. Geometry chunks remain on disk
+    // until an exact lookup asks for a single boundary span.
     if (valid &&
         sqlite3_prepare_v2(
             db_,
@@ -360,12 +366,16 @@ std::optional<Place> Gazetteer::find(int64_t numericId) const
                 static_cast<int>(size),
                 static_cast<int>(offset)) != SQLITE_OK)
             throw std::runtime_error("Failed to read place boundary");
+
+        // Bound the generated decoder separately from the encoded input buffer.
+        // GeoJSON expansion below has its own vertex-count limit.
         BoundaryMemory memory;
         zserio::BitStreamReader reader(bytes.data(), bytes.size());
         plazs_data::Boundary boundary(reader, plazs_data::Boundary::allocator_type(&memory));
         if (boundary.getPolygons().empty() ||
             (!boundary.getMultiPolygon() && boundary.getPolygons().size() != 1))
             throw std::runtime_error("Invalid place boundary container");
+
         auto polygons = nlohmann::json::array();
         size_t vertices = 0;
         for (auto const& polygon : boundary.getPolygons()) {
@@ -401,6 +411,7 @@ std::optional<Place> Gazetteer::find(int64_t numericId) const
                 throw std::runtime_error("Invalid place boundary polygon");
             polygons.push_back(std::move(rings));
         }
+
         // Permit only the serializer's final zero padding, not a concatenated payload.
         auto remaining = size * 8 - reader.getBitPosition();
         if (remaining > 7 || (remaining && reader.readBits(remaining) != 0))
