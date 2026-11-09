@@ -54,6 +54,7 @@ public:
      * Input over 200 bytes, trimmed input under two bytes, or input without tokens
      * returns no matches. Only the first eight tokens constrain the query; limit is
      * clamped to 1..50. Results contain metadata and geometry availability, not boundaries.
+     * No geometry is loaded.
      */
     std::vector<Place> search(std::string_view name, uint32_t limit = 10) const;
 

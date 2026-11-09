@@ -58,7 +58,7 @@ CREATE VIRTUAL TABLE place_fts USING fts5(
 
 
 class WofImporter:
-    """Prepare one snapshot, retaining import counters until atomic publication.
+    """Own snapshot verification, streaming selection and atomic artifact publication.
 
     Instances are intended for one run; use a new importer for another artifact.
     """
@@ -131,7 +131,10 @@ class WofImporter:
         )
 
     def names(self, properties, fallback):
-        """Prefer English; retain live aliases for selected languages, or all if empty."""
+        """Prefer the English label, retaining preferred/variant/colloquial aliases.
+
+        Use live aliases for the selected languages, or all languages if the selection is empty.
+        """
         english = properties.get("name:eng_x_preferred", [])
         name = english[0] if isinstance(english, list) and english else fallback
         aliases = {fallback, name}
@@ -157,7 +160,7 @@ class WofImporter:
                 yield from WofImporter.polygons(member)
 
     def ring(self, coordinates):
-        """Quantize coordinates and remove closure/adjacent duplicates.
+        """Quantize once, omitting closure and adjacent duplicates.
 
         Fewer than three distinct grid points discard the ring; topology is
         repaired later by boundary() after all components have been assembled.
